@@ -38,4 +38,4 @@ The app follows the MVVM (Model-View-ViewModel) architecture pattern, utilizing 
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ProtestTracker.git
+git clone https://github.com/okaraworks/Protest-App-Kotlin.git
